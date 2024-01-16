@@ -7,13 +7,13 @@ function App() {
   return (
     <div className="App">
       {/* Accordian Component */}
-      {/* <Accordian /> */}
+      <Accordian />
 
       {/* Random Color Component */}
-      {/* <RandomColor /> */}
+      <RandomColor />
 
       {/* {Star - Rating Component} */}
-      <StarRating noOfStars={10}/>
+      <StarRating noOfStars={5}/>
     </div>
   );
 }
