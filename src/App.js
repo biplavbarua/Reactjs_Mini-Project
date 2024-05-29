@@ -11,19 +11,19 @@ function App() {
   return (
     <div className="App">
       {/* Accordian Component */}
-      <Accordian />
+      {/* <Accordian /> */}
 
       {/* Random Color Component */}
-      <RandomColor />
+      {/* <RandomColor /> */}
 
       {/* {Star - Rating Component} */}
-      <StarRating noOfStars={5}/>
+      {/* <StarRating noOfStars={5}/> */}
 
       {/* Image Slider Component */}
-      <ImageSlider url={"https://picsum.photos/v2/list"} page={1} limit={"10"} />
+      {/* <ImageSlider url={"https://picsum.photos/v2/list"} page={1} limit={"10"} /> */}
 
       {/* Load More Products Component */}
-      <LoadMoreData />
+      {/* <LoadMoreData /> */}
 
       {/* Stacked Menu Component */}
       <StackedMenu menus={menus}/>
