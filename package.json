@@ -2,6 +2,7 @@
   "name": "reactjs_projects",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://biplavbarua.github.io/Reactjs_Mini-Project",
   "dependencies": {
     "@svgr/plugin-svgo": "^8.1.0",
     "@svgr/webpack": "^8.1.0",
